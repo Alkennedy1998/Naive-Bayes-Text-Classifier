@@ -1,12 +1,10 @@
 # Naive Bayes Text Classifier for Symantec Data Science Internship
 
 ## Automated the customer support ticket classification process to determine if an issue was, for example, with billing or installation.
-
 ## Increased labeling rate by over 450% through implementing a naïve Bayes classifier 
-
 ## Cleaned, formated, and analyzed training data with Numpy, Pandas, and Matplotlib. Trained the model and classified data using sklearn
 
-### Process funcitons as follows:
+### Process functions as follows:
 
 1. Data was cleaned, few rows with missing data remove
 2. Converted the text into TF-IDF feature vectors. Basically gave a score to each word depending on how often it appeared muliplied by te inverse of how many texts it appeared in
